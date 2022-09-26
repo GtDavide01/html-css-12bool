@@ -19,3 +19,11 @@
     width: 100%;
     border: 1px solid white;
 }
+.boxblack{
+    height: 60px;
+    background-color: black;
+}
+.boxred{
+    height: 60px;
+    background-color: red;
+}
